@@ -1,5 +1,5 @@
 ![UNA Logo](UNA-roundLionPurpleW.jpg)
-# UNA Summer STEM Camp 2017
+# UNA Summer STEM Camp 2018
 ## Computer Science Edition
 This code repository will contain the source code and notes created during the **UNA Summer STEM Microcontroller Camp**. During this camp we will introduce computer programming in the *C Programming Language* using a microcontroller. A microcontroller is a [complete computer](https://en.wikipedia.org/wiki/Microcontroller) with a CPU, memory, input, and output. Our microcontroller has connectors for audio, video, wireless, servo motors, power, and a serial console. We will build simple electronic circuits, employ sensors, and create code that manipulates circuits and sensors.
 
